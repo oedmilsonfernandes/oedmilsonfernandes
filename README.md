@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o [Edmilson Fernandes] 👋
 
-<!--
-**oedmilsonfernandes/oedmilsonfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Software Backend Junior**
 
-Here are some ideas to get you started:
+Eu sou gosto de resolver problemas complexos através de lógica pura e estruturação de dados. Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de sistemas e buscando oportunidades para contribuir com projetos de **software livre**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+* **Linguagens:** C++, Java, Python, JavaScript (Node.js)
+* **Banco de Dados:** PostgreSQL, SQLite
+* **DevOps & Infra:** Docker
+
+### 🎯 Objetivo Open Source
+Estou ativamente procurando projetos de código aberto onde eu possa aplicar meus conhecimentos em lógica de backend, APIs e bancos de dados.
+
+### 📫 Como me encontrar
+* **Email:** [jos.edmilson5@gmail.com](mailto:jos.edmilson5@gmail.com)
+
+---
+> "Ideas and only ideas can light the darkness."
+>
+> — **Ludwig von Mises**
